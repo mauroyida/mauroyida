@@ -1,5 +1,5 @@
-# Jaspion da Silva
-**`Garoto de Programa Ltda.`**
+# Mauro Yida
+**`Estudante de D.S.M na Fatec.`**
 ---
 
 ### Linguagem de Conhecimento>
