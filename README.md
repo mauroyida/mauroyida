@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jaspion da Silva
+**`Garoto de Programa Ltda.`**
+---
 
-<!--
-**mauroyida/mauroyida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagem de Conhecimento>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    width="30px"
+    aligh="left"
+    alt="PHP"
+    title="PHP"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+<img 
+    width="30px"
+    aligh="left"
+    alt="PHP"
+    title="PHP"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+/>
+<img 
+    width="30px"
+    aligh="left"
+    alt="PHP"
+    title="PHP"
+    style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<br><br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mauroyida&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=mauroyida&include_all_commits=true&theme=tokyonight)
